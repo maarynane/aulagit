@@ -1,1 +1,1 @@
-O objjetivo da lista de tarefas é marcar tarefas como concluídas e pendentes, para assim ter uma lista mais clara e organizada. Deixando bem explícito as atividades concluídas em uma lista e as pendentes em outras.
+O objetivo da lista de tarefas é marcar tarefas como concluídas e pendentes, para assim ter uma lista mais clara e organizada. Deixando bem explícito as atividades concluídas em uma lista e as pendentes em outras.
